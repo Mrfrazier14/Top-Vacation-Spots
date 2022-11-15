@@ -57,6 +57,11 @@ h5 {
 #author-id {
   color: cornflowerblue;
 }
+
 h2.destination {
   font-family: Tahoma;
+}
+
+.description h5 {
+  color: blueviolet;
 }
