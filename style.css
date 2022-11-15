@@ -66,10 +66,16 @@ h2.destination {
   color: blueviolet;
 }
 
-li, h4 {
- color: gold;
+li h4 {
+  color: gold;
 }
 
 h4 {
   color: dodgerblue;
 }
+
+li,
+h5 {
+  font-family: monospace;
+}
+
