@@ -1,4 +1,4 @@
-* {
+ {
   border: 1px solid red;
 }
 
@@ -25,9 +25,21 @@ h1 {
 a[href*='florence'] {
   color: lightgreen;
 }
+
 a[href*='beijing'] {
   color: lightblue;
 }
+
 a[href*='seoul'] {
   color: lightpink;
+}
+
+a:hover {
+  color:darkorange;
+}
+.heading-background {
+ background-color: aqua;
+}
+#publish-time {
+  color: gray;
 }
